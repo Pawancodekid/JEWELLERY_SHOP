@@ -17,4 +17,4 @@ Running the project
 
 Project Developer
 ----------------
-Sajal Agrawal (sajal.agrawal1997@gmail.com)
+PAWAN SHARNAGATE (sharnagatep123@gmail.com)
